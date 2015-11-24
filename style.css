@@ -1,10 +1,1 @@
-.jumbotron{
-  background-size: cover;
-  background-image:url('http://placehold.it/2650x800');
-  
-}
 
-.jumbotron .container {
-  position: relative;
-  top:100px;
-}
