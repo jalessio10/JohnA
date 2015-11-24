@@ -1,3 +1,4 @@
-.jumbotron img{
+.jumbotron{
   max-width: 100%;
+  background-image:url('http://placehold.it/2650x800');
 }
