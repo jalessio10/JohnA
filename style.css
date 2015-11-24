@@ -3,10 +3,10 @@
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
-  max-width: 100%;
 }
 
 .jumbotron .container {
   position: center;
   top:100px;
+  max-width: 100%;
 }
