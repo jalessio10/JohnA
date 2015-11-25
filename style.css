@@ -8,6 +8,7 @@ body{
   text-transform: uppercase;
   padding-left: 10px;
   padding-top: 4px;
+  font-color: black;
 }
 .nav li{
   display: inline;
