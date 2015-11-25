@@ -1,11 +1,11 @@
  .jumbotron {
-   background-image:url('http://placehold.it/2560x800');
-   height: 400px;
-   background-repeat: no-repeat;
-   background-size: cover;
+ background-image:url('http://placehold.it/2560x800');
+ height: 400px;
+ background-repeat: no-repeat;
+ background-size: cover;
  }
  .nav li {
-  display: inline;
+ display: inline;
 }
 .nav a {
  font-family: 'Exo 2', sans-serif;
@@ -22,4 +22,7 @@ p{
 h2{
  font-family: 'Exo 2', sans-serif;
  font-size: 35px;
+}
+.col-lg-4 img{
+ max-width: 100%;
 }
