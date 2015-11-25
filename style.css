@@ -6,3 +6,13 @@
   padding-left: 10px;
   padding-top: 4px;
 }
+.jumbotron h1{
+  font-family: 'Russo One', sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+  font-color: #ccebff
+}
+.jumbotron{
+  background-image: url('http://placehold.it/1440x400');
+  height: 400px;
+}
