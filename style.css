@@ -1,13 +1,6 @@
-.jumbotron {
-  background-image:url('http://placehold.it/2560x600');
-  height: 600px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-}
-
-.jumbotron .container {
-  position: relative;
-  top:100px;
-}
-
+ .jumbotron {
+   background-image:url('http://placehold.it/2560x800');
+   height: 450px;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
