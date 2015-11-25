@@ -4,3 +4,12 @@
    background-repeat: no-repeat;
    background-size: cover;
  }
+ .nav li {
+  display: inline;
+}
+.nav a {
+ font-family: 'Exo 2', sans-serif;
+}
+body {
+ background-color: #80e3ff;
+}
