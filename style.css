@@ -8,7 +8,7 @@ body{
   text-transform: uppercase;
   padding-left: 10px;
   padding-top: 4px;
-  font-color: black;
+  color: black;
 }
 .nav li{
   display: inline;
@@ -17,7 +17,7 @@ body{
   font-family: 'Russo One', sans-serif;
   font-weight: bold;
   font-size: 60px;
-  font-color: #ccebff;
+  color: #ccebff;
 }
 .jumbotron{
   background-image: url('http://placehold.it/1440x400');
@@ -25,7 +25,7 @@ body{
   padding-bottom: 5px;
 }
 h2{
-  font-color: #001e33;
+  color: #001e33;
   font-family: 'Exo 2', sans-serif;
   font-weight: bold;
   font-size: 45px;
