@@ -9,6 +9,8 @@
 }
 .nav a {
  font-family: 'Exo 2', sans-serif;
+ padding: 14px 10px;
+ font-size: 30px;
 }
 body {
  background-color: #80e3ff;
