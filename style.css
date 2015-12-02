@@ -13,11 +13,13 @@
 .nav li{
   display: inline;
 }
+.nav{
+ background-color: #d9d9d9; 
+}
 .jumbotron h1{
   font-family: 'Russo One', sans-serif;
   font-weight: bold;
   font-size: 60px;
-  color: #ccebff;
 }
 .jumbotron{
   background-image: url('http://placehold.it/1440x400');
@@ -39,4 +41,3 @@ padding-top: 10px;
 padding-bottom: 20px;
 background-color: #d9d9d9;
 }
-
