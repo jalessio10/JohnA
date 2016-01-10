@@ -31,7 +31,7 @@ padding-top: 10px;
 padding-bottom: 20px;
 background-color: #d9d9d9;
 }
-#portrait {
+.col-md-4 {
     height: 500px;
     max-width: 350px;
 }
