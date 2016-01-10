@@ -31,4 +31,6 @@ padding-top: 10px;
 padding-bottom: 20px;
 background-color: #d9d9d9;
 }
-
+#banner{
+max-width 1080px;
+}
