@@ -32,7 +32,6 @@ li a:hover:not(.active) {
 .active {
     background-color: #3453b2;
 }
-}
 h2{
   color: #001e33;
   font-family: 'Exo 2', sans-serif;
