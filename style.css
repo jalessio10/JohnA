@@ -42,6 +42,11 @@ p{
 text-indent: 50px;
 font-family: 'Exo 2', sans-serif;
 }
+.center {
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
 #content{
 padding-top: 10px;
 padding-bottom: 20px;
