@@ -1,2 +1,10 @@
-# johna-portfolio.info
-hoping to to buy this domain here https://www.hover.com/domains/results?utf8=%E2%9C%93&q=JohnA-portfolio&tld=info 
+# Domain ideas
+john-a.me
+john-a.info
+john-a.bio
+johna-portfolio.me
+johna-portfolio.info
+johna-portfolio.bio
+johna.bio
+johna.me
+johna.info
