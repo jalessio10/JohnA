@@ -41,15 +41,14 @@ h2{
 h3{
   color: #001e33;
   font-family: 'Exo 2', sans-serif;
-  font-weight: bold;
-  font-size: 25px;
+  font-size: 17px;
    text-align: center;
 }
-h3{
+h4{
   color: #001e33;
   font-family: 'Exo 2', sans-serif;
   font-size: 17px;
-   text-align: center;
+  text-align: left;
 }
 p{
 text-indent: 60px;
